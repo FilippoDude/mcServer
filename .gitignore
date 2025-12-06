@@ -3,6 +3,7 @@ logs/
 journeymap/
 simplebackups/
 patchouli_books/
+crash-reports/
 
 world/*
 !world/datapacks/
