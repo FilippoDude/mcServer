@@ -1,0 +1,9 @@
+
+logs/
+journeymap/
+simplebackups/
+patchouli_books/
+
+world/*
+!world/datapacks/
+!world/datapacks/**  

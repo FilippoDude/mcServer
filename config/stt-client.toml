@@ -1,0 +1,5 @@
+
+[General]
+	#Show tooltips.  Default: true
+	showTooltips = true
+
